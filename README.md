@@ -1,5 +1,7 @@
 # SharpKiller
 Lifetime AMSI bypass by @ZeroMemoryEx ported to .NET Framework 4.8.
+
+
 Newly integrated features:
 
 [ x ] - Live scan for new powershell processes every 0.5 seconds -> Automatically patches new powershell instances 
