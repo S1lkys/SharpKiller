@@ -1,5 +1,5 @@
 # SharpKiller
-Lifetime AMSI bypass by @ZeroMemoryEx ported to .NET Framework 4.8.
+Lifetime AMSI bypass AMSI-Killer by @ZeroMemoryEx ported to .NET Framework 4.8.
 
 
 Newly integrated features:
