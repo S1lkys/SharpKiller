@@ -30,7 +30,6 @@ Newly integrated features:
   ![image](https://user-images.githubusercontent.com/60795188/221431685-60fb2012-db0f-41aa-bd7b-3a19f07c91c4.png)
 
 
-
 # Patch
 
 ## Before Patch
