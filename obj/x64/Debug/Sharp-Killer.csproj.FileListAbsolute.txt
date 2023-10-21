@@ -1,0 +1,16 @@
+C:\Users\mbzra\source\repos\Schulung\CreateProcessDemo-Schulung- Mitigation Block Policies- 0x04\Sharp-Killer\bin\x64\Debug\Sharp-Killer.exe.config
+C:\Users\mbzra\source\repos\Schulung\CreateProcessDemo-Schulung- Mitigation Block Policies- 0x04\Sharp-Killer\bin\x64\Debug\Sharp-Killer.exe
+C:\Users\mbzra\source\repos\Schulung\CreateProcessDemo-Schulung- Mitigation Block Policies- 0x04\Sharp-Killer\bin\x64\Debug\Sharp-Killer.pdb
+C:\Users\mbzra\source\repos\Schulung\CreateProcessDemo-Schulung- Mitigation Block Policies- 0x04\Sharp-Killer\obj\x64\Debug\Sharp-Killer.csproj.AssemblyReference.cache
+C:\Users\mbzra\source\repos\Schulung\CreateProcessDemo-Schulung- Mitigation Block Policies- 0x04\Sharp-Killer\obj\x64\Debug\Sharp-Killer.csproj.SuggestedBindingRedirects.cache
+C:\Users\mbzra\source\repos\Schulung\CreateProcessDemo-Schulung- Mitigation Block Policies- 0x04\Sharp-Killer\obj\x64\Debug\Sharp-Killer.csproj.CoreCompileInputs.cache
+C:\Users\mbzra\source\repos\Schulung\CreateProcessDemo-Schulung- Mitigation Block Policies- 0x04\Sharp-Killer\obj\x64\Debug\Sharp-Killer.exe
+C:\Users\mbzra\source\repos\Schulung\CreateProcessDemo-Schulung- Mitigation Block Policies- 0x04\Sharp-Killer\obj\x64\Debug\Sharp-Killer.pdb
+C:\Users\mbzra\source\repos\SharpKiller\Sharp-Killer\bin\x64\Debug\Sharp-Killer.exe.config
+C:\Users\mbzra\source\repos\SharpKiller\Sharp-Killer\bin\x64\Debug\Sharp-Killer.exe
+C:\Users\mbzra\source\repos\SharpKiller\Sharp-Killer\bin\x64\Debug\Sharp-Killer.pdb
+C:\Users\mbzra\source\repos\SharpKiller\Sharp-Killer\obj\x64\Debug\Sharp-Killer.csproj.AssemblyReference.cache
+C:\Users\mbzra\source\repos\SharpKiller\Sharp-Killer\obj\x64\Debug\Sharp-Killer.csproj.SuggestedBindingRedirects.cache
+C:\Users\mbzra\source\repos\SharpKiller\Sharp-Killer\obj\x64\Debug\Sharp-Killer.csproj.CoreCompileInputs.cache
+C:\Users\mbzra\source\repos\SharpKiller\Sharp-Killer\obj\x64\Debug\Sharp-Killer.exe
+C:\Users\mbzra\source\repos\SharpKiller\Sharp-Killer\obj\x64\Debug\Sharp-Killer.pdb
