@@ -54,12 +54,16 @@ Newly integrated features:
   ![image](https://user-images.githubusercontent.com/60795188/221432418-841db688-879c-4915-8d6e-926236a3732c.png)
 
 * now we can execute "Invoke-Mimikatz"
-
-  ![Screenshot 2023-02-26 195914](https://user-images.githubusercontent.com/60795188/221432425-5c121433-33f4-4b8d-add6-63c078d5edb8.png)
-
+<img src="https://raw.githubusercontent.com/S1lkys/SharpKiller/main/media/demo_.jpg" height="450">
 
 
+## Newly created processes
 
+* Sharp-Killer will patch any newly created Powershell processes in near real time.
+<img src="https://raw.githubusercontent.com/S1lkys/SharpKiller/main/media/demo.jpg" height="450">
 
-References:
-https://github.com/ZeroMemoryEx/Amsi-Killer
+### Video demo
+![video](https://raw.githubusercontent.com/S1lkys/SharpKiller/main/media/demo.gif)
+
+### References:
+* https://github.com/ZeroMemoryEx/Amsi-Killer
