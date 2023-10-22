@@ -6,3 +6,11 @@ C:\Users\mbzra\source\repos\Schulung\CreateProcessDemo-Schulung- Mitigation Bloc
 C:\Users\mbzra\source\repos\Schulung\CreateProcessDemo-Schulung- Mitigation Block Policies- 0x04\Sharp-Killer\obj\Debug\Sharp-Killer.csproj.CoreCompileInputs.cache
 C:\Users\mbzra\source\repos\Schulung\CreateProcessDemo-Schulung- Mitigation Block Policies- 0x04\Sharp-Killer\obj\Debug\Sharp-Killer.exe
 C:\Users\mbzra\source\repos\Schulung\CreateProcessDemo-Schulung- Mitigation Block Policies- 0x04\Sharp-Killer\obj\Debug\Sharp-Killer.pdb
+C:\Users\HTB\Desktop\Projects\SharpKiller\bin\Debug\Sharp-Killer.exe.config
+C:\Users\HTB\Desktop\Projects\SharpKiller\bin\Debug\Sharp-Killer.exe
+C:\Users\HTB\Desktop\Projects\SharpKiller\bin\Debug\Sharp-Killer.pdb
+C:\Users\HTB\Desktop\Projects\SharpKiller\obj\Debug\Sharp-Killer.csproj.AssemblyReference.cache
+C:\Users\HTB\Desktop\Projects\SharpKiller\obj\Debug\Sharp-Killer.csproj.SuggestedBindingRedirects.cache
+C:\Users\HTB\Desktop\Projects\SharpKiller\obj\Debug\Sharp-Killer.csproj.CoreCompileInputs.cache
+C:\Users\HTB\Desktop\Projects\SharpKiller\obj\Debug\Sharp-Killer.exe
+C:\Users\HTB\Desktop\Projects\SharpKiller\obj\Debug\Sharp-Killer.pdb
