@@ -6,7 +6,11 @@ Newly integrated features:
 
 [ x ] - Live scan for new powershell processes every 0.5 seconds -> Automatically patches new powershell instances 
 
-## Opcode Scan
+#### Building the solution
+* Set your platform explicitly to x64 in Build > configuration manager
+
+## How does it work?
+### Opcode Scan
 
 * we get the exact address of the jump instruction by searching for the first byte of each instruction this technique is effective even in the face of updates or modifications to the target data set.
 
@@ -31,10 +35,11 @@ Newly integrated features:
   
   ![image](https://user-images.githubusercontent.com/60795188/221431685-60fb2012-db0f-41aa-bd7b-3a19f07c91c4.png)
 
+  <img src="https://github.com/S1lkys/SharpKiller/assets/40408435/59f4ef29-9ed1-4d14-9ea8-f29bf299534d" height="500">
 
-# Patch
+## Patch
 
-## Before Patch
+### Before Patch
 
 * The program tests the value of RDX against itself. If the comparison evaluates to 0, the program executes a jump to return. Otherwise, the program proceeds to evaluate the next instruction
 
@@ -44,7 +49,7 @@ Newly integrated features:
 
   ![image](https://user-images.githubusercontent.com/60795188/221432132-20993ccf-c53e-493d-8b22-feaea86fb6bf.png)
 
-## After Patch
+### After Patch
 
 
 * we patch the first byte and change it from JE to JMP so it return directly 
@@ -54,16 +59,16 @@ Newly integrated features:
   ![image](https://user-images.githubusercontent.com/60795188/221432418-841db688-879c-4915-8d6e-926236a3732c.png)
 
 * now we can execute "Invoke-Mimikatz"
-<img src="https://raw.githubusercontent.com/S1lkys/SharpKiller/main/media/demo_.jpg" height="450">
+  <img src="https://raw.githubusercontent.com/S1lkys/SharpKiller/main/media/demo_.jpg" height="450">
 
 
-## Newly created processes
+### Newly created processes
 
 * Sharp-Killer will patch any newly created Powershell processes in near real time.
-<img src="https://raw.githubusercontent.com/S1lkys/SharpKiller/main/media/demo.jpg" height="450">
+  <img src="https://raw.githubusercontent.com/S1lkys/SharpKiller/main/media/demo.jpg" height="450">
 
-### Video demo
-![video](https://raw.githubusercontent.com/S1lkys/SharpKiller/main/media/demo.gif)
+## Video demo
+  ![video](https://raw.githubusercontent.com/S1lkys/SharpKiller/main/media/demo.gif)
 
-### References:
+## References:
 * https://github.com/ZeroMemoryEx/Amsi-Killer
