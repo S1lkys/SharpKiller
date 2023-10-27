@@ -35,8 +35,6 @@ Newly integrated features:
   
   ![image](https://user-images.githubusercontent.com/60795188/221431685-60fb2012-db0f-41aa-bd7b-3a19f07c91c4.png)
 
-  <img src="https://github.com/S1lkys/SharpKiller/assets/40408435/59f4ef29-9ed1-4d14-9ea8-f29bf299534d" height="500">
-
 ## Patch
 
 ### Before Patch
@@ -44,6 +42,8 @@ Newly integrated features:
 * The program tests the value of RDX against itself. If the comparison evaluates to 0, the program executes a jump to return. Otherwise, the program proceeds to evaluate the next instruction
 
   ![image](https://user-images.githubusercontent.com/60795188/221431975-73c78c9c-5358-44c2-b0de-41d68024e2bb.png)
+  
+  <img src="https://github.com/S1lkys/SharpKiller/assets/40408435/59f4ef29-9ed1-4d14-9ea8-f29bf299534d" height="500">
 
 * we cant execute "Invoke-Mimikatz"
 
