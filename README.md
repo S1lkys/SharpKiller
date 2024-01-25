@@ -1,6 +1,8 @@
 # SharpKiller
 Lifetime AMSI bypass AMSI-Killer by @ZeroMemoryEx ported to .NET Framework 4.8.
 
+# Additional Obfuscation required
+https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=VirTool:MSIL/SharpKiller.A&ThreatID=2147895059
 
 Newly integrated features:
 
